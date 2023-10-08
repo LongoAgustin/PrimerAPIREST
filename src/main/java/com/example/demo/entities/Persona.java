@@ -23,7 +23,7 @@ public class Persona extends Base{
     @Column(name = "NOMBRE")
     private String nombre;
     @Column(name = "APELLIDO")
-    private String apelido;
+    private String apellido;
     @Column(name = "DOCUMENTO")
     private int dni;
 
